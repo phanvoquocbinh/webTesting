@@ -31,5 +31,39 @@
 	<classpathentry kind="lib" path="F:/automation/BCEL/bcel-6.7.0/bcel-6.7.0-sources.jar"/>
 	<classpathentry kind="lib" path="F:/automation/BCEL/bcel-6.7.0/bcel-6.7.0-tests.jar"/>
 	<classpathentry kind="lib" path="F:/automation/BCEL/bcel-6.7.0/bcel-6.7.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-api-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-api-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-chrome-driver-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-chrome-driver-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-chromium-driver-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-chromium-driver-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-devtools-v85-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-devtools-v85-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-devtools-v109-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-devtools-v109-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-devtools-v110-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-devtools-v110-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-devtools-v111-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-devtools-v111-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-edge-driver-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-edge-driver-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-firefox-driver-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-firefox-driver-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-http-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-http-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-ie-driver-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-ie-driver-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-java-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-java-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-json-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-json-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-manager-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-manager-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-remote-driver-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-remote-driver-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-safari-driver-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-safari-driver-4.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-support-4.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/automation/WebDriver/selenium-support-4.8.3-sources.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
